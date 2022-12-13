@@ -1,0 +1,25 @@
+{
+  "name": "metalcrush.er",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tonejs/midi": "^2.0.27",
+    "audiobuffer-to-wav": "^1.0.0",
+    "browserify-fs": "^1.0.0",
+    "ciseaux": "^0.4.0",
+    "esmify": "^2.1.1",
+    "esminify": "^4.0.1",
+    "mp3-cutter": "^1.0.6",
+    "plyr": "^3.6.8",
+    "soundfont-player": "^0.12.0",
+    "tone": "^14.7.77",
+    "video-to-audio": "^1.0.1",
+    "watchify": "^4.0.0"
+  }
+}
