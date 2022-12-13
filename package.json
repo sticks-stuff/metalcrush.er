@@ -14,7 +14,7 @@
     "browserify-fs": "^1.0.0",
     "ciseaux": "^0.4.0",
     "esmify": "^2.1.1",
-    "esminify": "^4.0.1",
+    "esminify": "^4.0.5",
     "mp3-cutter": "^1.0.6",
     "plyr": "^3.6.8",
     "soundfont-player": "^0.12.0",
